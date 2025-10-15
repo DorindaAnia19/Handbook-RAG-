@@ -1,0 +1,10 @@
+qdrant-client
+sentence-transformers
+langchain
+langchain-qdrant
+huggingface-hub
+transformers
+pypdf
+python-dotenv
+numpy
+requests
